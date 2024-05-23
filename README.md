@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **scikit-learn**
 
-- 👨‍💻 All of my projects are available at [https://prashamsaaryal.vercel.app/](https://prashamsaaryal.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://prashamsa-aryal.vercel.app/](https://prashamsa-aryal.vercel.app/)
 
 - 📫 How to reach me **prashamsa35np@gmail.com**
 

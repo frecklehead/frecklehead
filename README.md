@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frecklehead&label=Profile%20views&color=0e75b6&style=flat" alt="frecklehead" /> </p>
 
-- 🌱 I’m currently learning **Expressjs**
+- 🌱 I’m currently learning **AI systems**
 
-- 👨‍💻 All of my projects are available at [https://prashamsa.vercel.app/](https://prashamsa.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://prashamsa.vercel.app/](https://prashamsaa.com/)
 
 - 📫 How to reach me **prashamsa35np@gmail.com**
 
